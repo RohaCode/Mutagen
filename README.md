@@ -8,7 +8,7 @@ Takes a private key from a previous puzzle (e.g. `000...5749f` for Puzzle 19) an
 
 ## 🚀 Installation
 
-git clone [[https://github.com/MikeWazovksy/Mutagen.git](https://github.com/RohaCode/Mutagen.git)](https://github.com/RohaCode/Mutagen.git)
+git clone https://github.com/RohaCode/Mutagen.git
 
 cd Mutagen
 
